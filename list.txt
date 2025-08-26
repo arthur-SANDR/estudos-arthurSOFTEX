@@ -1,0 +1,6 @@
+Componente	Modelo / Especificação	Preço Estimado
+Processador	Intel Celeron G5905	R$ 200 - 250
+Placa Mãe	ASRock H410M-HDV/M.2 (LGA 1200)	R$ 350 - 450
+Memória RAM	8GB DDR4 2666 MHz	R$ 150 - 250
+Armazenamento	SSD 240GB Kingston A400	R$ 180 - 250
+Gabinete e Fonte	PCYes! Fênix 3 (Mini ITX) + Fonte 400W	R$ 200 - 300
